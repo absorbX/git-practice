@@ -1,0 +1,9 @@
+total 12K
+drwxr-xr-x 1 이경민 197121   0 Oct 16 22:01 ./
+drwxr-xr-x 1 이경민 197121   0 Oct 16 21:25 ../
+drwxr-xr-x 1 이경민 197121   0 Oct 16 22:00 .git/
+-rw-r--r-- 1 이경민 197121  21 Oct 16 21:39 .gitignore
+-rw-r--r-- 1 이경민 197121 146 Oct 16 21:17 README.md
+-rw-r--r-- 1 이경민 197121   0 Oct 16 22:01 file_list.txt
+-rw-r--r-- 1 이경민 197121  64 Oct 16 21:41 history_command.txt
+-rw-r--r-- 1 이경민 197121  50 Oct 16 22:00 new_words.txt
